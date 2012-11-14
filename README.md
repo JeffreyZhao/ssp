@@ -25,7 +25,7 @@
 
 ## 书籍来源
 
-[@老赵](http://blog.zhaojie.me/)：
+[老赵](http://blog.zhaojie.me/)：
 
 * [算法（第4版）][algorithms-4th] x 2
 * [HTTP权威指南][http-def-guide]
