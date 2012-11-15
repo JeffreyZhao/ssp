@@ -41,12 +41,13 @@
 
 * [老赵][jeffz]
 * [韦恩卑鄙][waynebaby]
+* [团团ta爸][团团ta爸]
 * [雅戈贝尔][雅戈贝尔]
 * [开源中国][oschina]
 
 ## 活动基金明细
 
-<table><thead>    <tr><th>日期</th><th>类别</th><th>描述</th><th>金额</th><th>基金余额</th></tr></thead><tbody>    <tr><td>2012-11-13</td><td>受捐</td><td>捐款人：老赵</td><td>+1024.00</td><td>1024.00</td></tr>    <tr><td>2012-11-14</td><td>购书</td><td>算法（第4版） x 2</td><td>-148.60</td><td>875.40</td></tr>    <tr><td>2012-11-14</td><td>购书</td><td>HTTP权威指南 x 2</td><td>-163.60</td><td>711.80</td></tr>    <tr><td>2012-11-14</td><td>购书</td><td>算法导论（原书第2版）</td><td>-63.80</td><td>648.00</td></tr>    <tr><td>2012-11-14</td><td>购书</td><td>编程珠玑（英文版•第2版）</td><td>-29.30</td><td>618.70</td></tr>    <tr><td>2012-11-15</td><td>受捐</td><td>捐款人：韦恩卑鄙</td><td>+200.00</td><td>818.70</td></tr>    <tr><td>2012-11-15</td><td>购书</td><td>精通CSS：高级Web标准解决方案（第2版）</td><td>-36.80</td><td>781.90</td></tr>    <tr><td>2012-11-15</td><td>受捐</td><td>捐款人：雅戈贝尔</td><td>+256.00</td><td>1037.90</td></tr>    <tr><td>2012-11-15</td><td>受捐</td><td>捐款人：开源中国</td><td>+1024.00</td><td>2061.90</td></tr></tbody></table>
+<table><thead>    <tr><th>日期</th><th>类别</th><th>描述</th><th>金额</th><th>基金余额</th></tr></thead><tbody>    <tr><td>2012-11-13</td><td>受捐</td><td>捐款人：老赵</td><td>+1024.00</td><td>1024.00</td></tr>    <tr><td>2012-11-14</td><td>购书</td><td>算法（第4版） x 2</td><td>-148.60</td><td>875.40</td></tr>    <tr><td>2012-11-14</td><td>购书</td><td>HTTP权威指南 x 2</td><td>-163.60</td><td>711.80</td></tr>    <tr><td>2012-11-14</td><td>购书</td><td>算法导论（原书第2版）</td><td>-63.80</td><td>648.00</td></tr>    <tr><td>2012-11-14</td><td>购书</td><td>编程珠玑（英文版•第2版）</td><td>-29.30</td><td>618.70</td></tr>    <tr><td>2012-11-15</td><td>受捐</td><td>捐款人：韦恩卑鄙</td><td>+200.00</td><td>818.70</td></tr>    <tr><td>2012-11-15</td><td>购书</td><td>精通CSS：高级Web标准解决方案（第2版）</td><td>-36.80</td><td>781.90</td></tr>    <tr><td>2012-11-15</td><td>受捐</td><td>捐款人：团团ta爸</td><td>+256.00</td><td>1037.90</td></tr>    <tr><td>2012-11-15</td><td>受捐</td><td>捐款人：雅戈贝尔</td><td>+256.00</td><td>1293.90</td></tr>    <tr><td>2012-11-15</td><td>受捐</td><td>捐款人：开源中国</td><td>+1024.00</td><td>2317.90</td></tr></tbody></table>
 
 [algorithms-4th]: http://www.ituring.com.cn/book/875 "算法（第4版）"
 [http-def-guide]: http://www.ituring.com.cn/book/844 "HTTP权威指南"
@@ -57,5 +58,6 @@
 
 [jeffz]: http://zhaojie.me/ "老赵"
 [waynebaby]: http://www.weibo.com/waynebabywang "韦恩卑鄙"
+[团团ta爸]: http://weibo.com/22034063 "团团ta爸"
 [雅戈贝尔]: http://www.weibo.com/u/2272597085 "雅戈贝尔"
 [oschina]: http://www.oschina.net/ "开源中国"
