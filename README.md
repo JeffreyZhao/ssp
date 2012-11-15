@@ -13,7 +13,7 @@
 
 ## 状态
 
-<table><thead>    <tr><th>姓名</th><th>书籍</th><th>状态</th><th>详情</th></tr></thead><tbody>    <tr><td>陈昱</td><td>算法（第4版）</td><td>寄出</td><td></td></tr>    <tr><td>孙旺星</td><td>HTTP权威指南</td><td>寄出</td><td></td></tr>    <tr><td>李奇平</td><td>算法导论</td><td>寄出</td><td></td></tr>    <tr><td>叶文辉</td><td>算法（第4版）</td><td>寄出</td><td></td></tr>    <tr><td>高一新</td><td>HTTP权威指南</td><td>寄出</td><td></td></tr>    <tr><td>谢幸家</td><td>编程珠玑（英文版?第2版）</td><td>寄出</td><td></td></tr>    <tr><td>范国龙</td><td>深入理解计算机系统（原书第2版）</td><td>寄出</td><td></td></tr>    <tr><td>李君奇</td><td>HTTP权威指南</td><td>寄出</td><td></td></tr></tbody></table>
+<table><thead>    <tr><th>姓名</th><th>书籍</th><th>状态</th><th>详情</th></tr></thead><tbody>    <tr><td>陈昱</td><td>算法（第4版）</td><td>寄出</td><td></td></tr>    <tr><td>孙旺星</td><td>HTTP权威指南</td><td>寄出</td><td></td></tr>    <tr><td>李奇平</td><td>算法导论</td><td>寄出</td><td></td></tr>    <tr><td>叶文辉</td><td>算法（第4版）</td><td>寄出</td><td></td></tr>    <tr><td>高一新</td><td>HTTP权威指南</td><td>寄出</td><td></td></tr>    <tr><td>谢幸家</td><td>编程珠玑（英文版•第2版）</td><td>寄出</td><td></td></tr>    <tr><td>范国龙</td><td>深入理解计算机系统（原书第2版）</td><td>寄出</td><td></td></tr>    <tr><td>李君奇</td><td>HTTP权威指南</td><td>寄出</td><td></td></tr></tbody></table>
 
 ## 书籍来源
 
@@ -24,6 +24,7 @@
 * [算法导论（原书第2版）][clrs-2nd]
 * [编程珠玑（英文版•第2版）][prog-pearls-2nd-en]
 * [深入理解计算机系统（原书第2版）][csapp-2nd]
+* [精通CSS：高级Web标准解决方案（第2版）][css-mastery-2nd]
 
 [图灵社区](http://www.ituring.com.cn/)：
 
@@ -32,8 +33,9 @@
 [algorithms-4th]: http://www.ituring.com.cn/book/875 "算法（第4版）"
 [http-def-guide]: http://www.ituring.com.cn/book/844 "HTTP权威指南"
 [clrs-2nd]: http://book.douban.com/subject/1885170/ "算法导论"
-[prog-pearls-2nd-en]: http://book.douban.com/subject/4924297/ "编程珠玑（英文版•第2版）"
+[prog-pearls-2nd-en]: http://www.ituring.com.cn/book/144 "编程珠玑（英文版•第2版）"
 [csapp-2nd]: http://book.douban.com/subject/5333562/ "深入理解计算机系统（原书第2版）"
+[css-mastery-2nd]: http://www.ituring.com.cn/book/182 "精通CSS：高级Web标准解决方案（第2版）"
 
 ## 捐赠
 
