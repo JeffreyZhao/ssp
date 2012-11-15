@@ -35,16 +35,17 @@
 
 ## 捐赠
 
-很显然，这事儿由我一人来搞是几乎不可能的，我只能是一个发起者和调度员，而且有意愿做这事儿的老大们肯定有许多。因此，也欢迎大伙有钱出钱，有书出书。假如您有闲散书籍，不妨开一个列表并发送至 [jeffz@live.com](mailto:jeffz@live.com)，这个列表我不会公开（为了避免同学“挑书”）。假如您想要直接为活动基金捐钱，也欢迎将钱转入我的支付宝账号（账号即上述邮箱，姓名：赵劼）。当然，也请通过邮件告诉我您是哪位。活动基金的使用明细将直接列于下方，欢迎大家监督。
+很显然，这事儿由我一人来搞是几乎不可能的，我只能是一个发起者和调度员，而且有意愿做这事儿的老大们肯定有许多。因此，也欢迎大伙有钱出钱，有书出书。假如您有闲散书籍，不妨开一个列表并发送至 [jeffz@live.com](mailto:jeffz@live.com)，这个列表我不会公开（为了避免同学“挑书”）。活动基金的使用明细将直接列于下方，欢迎大家监督。
 
-感谢以下捐款人的热心帮助：
+感谢以下个人及集体的热心帮助：
 
 * [老赵][jeffz]：1024
+* [开源中国][oschina]：1024
 * [韦恩卑鄙][waynebaby]：200
 
 ## 活动基金明细
 
-<table><thead>    <tr><th>日期</th><th>类别</th><th>描述</th><th>金额</th><th>基金余额</th></tr></thead><tbody>    <tr><td>2012-11-13</td><td>受捐</td><td>捐款人：老赵</td><td>+1024.00</td><td>1024.00</td></tr>    <tr><td>2012-11-14</td><td>购书</td><td>算法（第4版） x 2</td><td>-148.60</td><td>875.40</td></tr>    <tr><td>2012-11-14</td><td>购书</td><td>HTTP权威指南 x 2</td><td>-163.60</td><td>711.80</td></tr>    <tr><td>2012-11-14</td><td>购书</td><td>算法导论（原书第2版）</td><td>-63.80</td><td>648.00</td></tr>    <tr><td>2012-11-14</td><td>购书</td><td>编程珠玑（英文版•第2版）</td><td>-29.30</td><td>618.70</td></tr>    <tr><td>2012-11-15</td><td>受捐</td><td>捐款人：韦恩卑鄙</td><td>+200.00</td><td>818.70</td></tr>    <tr><td>2012-11-15</td><td>购书</td><td>精通CSS：高级Web标准解决方案（第2版）</td><td>-36.80</td><td>781.90</td></tr></tbody></table>
+<table><thead>    <tr><th>日期</th><th>类别</th><th>描述</th><th>金额</th><th>基金余额</th></tr></thead><tbody>    <tr><td>2012-11-13</td><td>受捐</td><td>捐款人：老赵</td><td>+1024.00</td><td>1024.00</td></tr>    <tr><td>2012-11-14</td><td>购书</td><td>算法（第4版） x 2</td><td>-148.60</td><td>875.40</td></tr>    <tr><td>2012-11-14</td><td>购书</td><td>HTTP权威指南 x 2</td><td>-163.60</td><td>711.80</td></tr>    <tr><td>2012-11-14</td><td>购书</td><td>算法导论（原书第2版）</td><td>-63.80</td><td>648.00</td></tr>    <tr><td>2012-11-14</td><td>购书</td><td>编程珠玑（英文版•第2版）</td><td>-29.30</td><td>618.70</td></tr>    <tr><td>2012-11-15</td><td>受捐</td><td>捐款人：韦恩卑鄙</td><td>+200.00</td><td>818.70</td></tr>    <tr><td>2012-11-15</td><td>购书</td><td>精通CSS：高级Web标准解决方案（第2版）</td><td>-36.80</td><td>781.90</td></tr>    <tr><td>2012-11-15</td><td>受捐</td><td>捐款人：开源中国</td><td>+1024.00</td><td>1842.70</td></tr></tbody></table>
 
 [algorithms-4th]: http://www.ituring.com.cn/book/875 "算法（第4版）"
 [http-def-guide]: http://www.ituring.com.cn/book/844 "HTTP权威指南"
@@ -55,3 +56,4 @@
 
 [jeffz]: http://zhaojie.me/ "老赵"
 [waynebaby]: http://www.weibo.com/waynebabywang "韦恩卑鄙"
+[oschina]: http://www.oschina.net/ "开源中国"
