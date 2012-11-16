@@ -13,8 +13,9 @@
 
 ## 状态
 
-<table><thead>    <tr><th>姓名</th><th>书籍</th><th>状态</th><th>详情</th></tr></thead><tbody>    <tr><td>陈昱</td><td>算法（第4版）</td><td>收到</td><td></td></tr>    <tr><td>孙旺星</td><td>HTTP权威指南</td><td>寄出</td><td></td></tr>    <tr><td>李奇平</td><td>算法导论</td><td>寄出</td><td></td></tr>    <tr><td>叶文辉</td><td>算法（第4版）</td><td>寄出</td><td></td></tr>    <tr><td>高一新</td><td>HTTP权威指南</td><td>寄出</td><td></td></tr>    <tr><td>谢幸家</td><td>编程珠玑（英文版•第2版）</td><td>寄出</td><td></td></tr>    <tr><td>范国龙</td><td>深入理解计算机系统（原书第2版）</td><td>寄出</td><td></td></tr>    <tr><td>李君奇</td><td>HTTP权威指南</td><td>寄出</td><td></td></tr>    <tr><td>杭海宁</td><td>精通CSS：高级Web标准解决方案（第2版）</td><td>寄出</td><td></td></tr>
-    <tr><td>陈颖</td><td>ACM-ICPC程序设计系列：图论及应用</td><td>寄出</td><td></td></tr></tbody></table>
+<table><thead>    <tr><th>姓名</th><th>书籍</th><th>状态</th><th>详情</th></tr></thead><tbody>    <tr><td>陈昱</td><td>算法（第4版）</td><td>收到</td><td></td></tr>    <tr><td>孙旺星</td><td>HTTP权威指南</td><td>寄出</td><td></td></tr>    <tr><td>李奇平</td><td>算法导论</td><td>寄出</td><td></td></tr>    <tr><td>叶文辉</td><td>算法（第4版）</td><td>寄出</td><td></td></tr>    <tr><td>高一新</td><td>HTTP权威指南</td><td>寄出</td><td></td></tr>    <tr><td>谢幸家</td><td>编程珠玑（英文版•第2版）</td><td>收到</td><td></td></tr>    <tr><td>范国龙</td><td>深入理解计算机系统（原书第2版）</td><td>收到</td><td></td></tr>    <tr><td>李君奇</td><td>HTTP权威指南</td><td>寄出</td><td></td></tr>    <tr><td>杭海宁</td><td>精通CSS：高级Web标准解决方案（第2版）</td><td>寄出</td><td></td></tr>
+    <tr><td>陈颖</td><td>ACM-ICPC程序设计系列：图论及应用</td><td>寄出</td><td></td></tr>
+    <tr><td>张然</td><td>JavaScript编程精解</td><td>寄出</td><td></td></tr></tbody></table>
 
 ## 书籍来源
 
@@ -26,6 +27,7 @@
 * [编程珠玑（英文版•第2版）][prog-pearls-2nd-en]
 * [精通CSS：高级Web标准解决方案（第2版）][css-mastery-2nd]
 * [ACM-ICPC程序设计系列：图论及应用][acm-icpc-graph]
+* [JavaScript编程精解][eloquent-js]
 
 [图灵社区](http://www.ituring.com.cn/)：
 
@@ -49,7 +51,7 @@
 
 ## 活动基金明细
 
-<table><thead>    <tr><th>日期</th><th>类别</th><th>描述</th><th>金额</th><th>基金余额</th></tr></thead><tbody>    <tr><td>2012-11-13</td><td>受捐</td><td>捐款人：老赵</td><td>+1024.00</td><td>1024.00</td></tr>    <tr><td>2012-11-14</td><td>购书</td><td>算法（第4版） x 2</td><td>-148.60</td><td>875.40</td></tr>    <tr><td>2012-11-14</td><td>购书</td><td>HTTP权威指南 x 2</td><td>-163.60</td><td>711.80</td></tr>    <tr><td>2012-11-14</td><td>购书</td><td>算法导论（原书第2版）</td><td>-63.80</td><td>648.00</td></tr>    <tr><td>2012-11-14</td><td>购书</td><td>编程珠玑（英文版•第2版）</td><td>-29.30</td><td>618.70</td></tr>    <tr><td>2012-11-15</td><td>受捐</td><td>捐款人：韦恩卑鄙</td><td>+200.00</td><td>818.70</td></tr>    <tr><td>2012-11-15</td><td>购书</td><td>精通CSS：高级Web标准解决方案（第2版）</td><td>-36.80</td><td>781.90</td></tr>    <tr><td>2012-11-15</td><td>受捐</td><td>捐款人：团团ta爸</td><td>+256.00</td><td>1037.90</td></tr>    <tr><td>2012-11-15</td><td>受捐</td><td>捐款人：雅戈贝尔</td><td>+256.00</td><td>1293.90</td></tr>    <tr><td>2012-11-15</td><td>受捐</td><td>捐款人：开源中国</td><td>+1024.00</td><td>2317.90</td></tr>    <tr><td>2012-11-16</td><td>购书</td><td>ACM-ICPC程序设计系列：图论及应用</td><td>-30.40</td><td>2287.50</td></tr></tbody></table>
+<table><thead>    <tr><th>日期</th><th>类别</th><th>描述</th><th>金额</th><th>基金余额</th></tr></thead><tbody>    <tr><td>2012-11-13</td><td>受捐</td><td>捐款人：老赵</td><td>+1024.00</td><td>1024.00</td></tr>    <tr><td>2012-11-14</td><td>购书</td><td>算法（第4版） x 2</td><td>-148.60</td><td>875.40</td></tr>    <tr><td>2012-11-14</td><td>购书</td><td>HTTP权威指南 x 2</td><td>-163.60</td><td>711.80</td></tr>    <tr><td>2012-11-14</td><td>购书</td><td>算法导论（原书第2版）</td><td>-63.80</td><td>648.00</td></tr>    <tr><td>2012-11-14</td><td>购书</td><td>编程珠玑（英文版•第2版）</td><td>-29.30</td><td>618.70</td></tr>    <tr><td>2012-11-15</td><td>受捐</td><td>捐款人：韦恩卑鄙</td><td>+200.00</td><td>818.70</td></tr>    <tr><td>2012-11-15</td><td>购书</td><td>精通CSS：高级Web标准解决方案（第2版）</td><td>-36.80</td><td>781.90</td></tr>    <tr><td>2012-11-15</td><td>受捐</td><td>捐款人：团团ta爸</td><td>+256.00</td><td>1037.90</td></tr>    <tr><td>2012-11-15</td><td>受捐</td><td>捐款人：雅戈贝尔</td><td>+256.00</td><td>1293.90</td></tr>    <tr><td>2012-11-15</td><td>受捐</td><td>捐款人：开源中国</td><td>+1024.00</td><td>2317.90</td></tr>    <tr><td>2012-11-16</td><td>购书</td><td>ACM-ICPC程序设计系列：图论及应用</td><td>-30.40</td><td>2287.50</td></tr>    <tr><td>2012-11-16</td><td>购书</td><td>JavaScript编程精解</td><td>-36.80</td><td>2250.7</td></tr></tbody></table>
 
 [algorithms-4th]: http://www.ituring.com.cn/book/875 "算法（第4版）"
 [http-def-guide]: http://www.ituring.com.cn/book/844 "HTTP权威指南"
@@ -58,6 +60,7 @@
 [csapp-2nd]: http://book.douban.com/subject/5333562/ "深入理解计算机系统（原书第2版）"
 [css-mastery-2nd]: http://www.ituring.com.cn/book/182 "精通CSS：高级Web标准解决方案（第2版）"
 [acm-icpc-graph]: http://book.douban.com/subject/10560051/ "ACM-ICPC程序设计系列：图论及应用"
+[eloquent-js]: http://book.douban.com/subject/19933548/ "JavaScript编程精解"
 
 [jeffz]: http://zhaojie.me/ "老赵"
 [waynebaby]: http://www.weibo.com/waynebabywang "韦恩卑鄙"
