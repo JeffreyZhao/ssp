@@ -13,7 +13,7 @@
 
 ## 状态
 
-<table><thead>    <tr><th>姓名</th><th>书籍</th><th>状态</th><th>详情</th></tr></thead><tbody>    <tr><td>陈昱</td><td>算法（第4版）</td><td>收到</td><td></td></tr>    <tr><td>孙旺星</td><td>HTTP权威指南</td><td>寄出</td><td></td></tr>    <tr><td>李奇平</td><td>算法导论</td><td>寄出</td><td></td></tr>    <tr><td>叶文辉</td><td>算法（第4版）</td><td>寄出</td><td></td></tr>    <tr><td>高一新</td><td>HTTP权威指南</td><td>寄出</td><td></td></tr>    <tr><td>谢幸家</td><td>编程珠玑（英文版•第2版）</td><td>收到</td><td></td></tr>    <tr><td>范国龙</td><td>深入理解计算机系统（原书第2版）</td><td>收到</td><td></td></tr>    <tr><td>李君奇</td><td>HTTP权威指南</td><td>寄出</td><td></td></tr>    <tr><td>杭海宁</td><td>精通CSS：高级Web标准解决方案（第2版）</td><td>寄出</td><td></td></tr>
+<table><thead>    <tr><th>姓名</th><th>书籍</th><th>状态</th><th>详情</th></tr></thead><tbody>    <tr><td>陈昱</td><td>算法（第4版）</td><td>收到</td><td></td></tr>    <tr><td>孙旺星</td><td>HTTP权威指南</td><td>寄出</td><td></td></tr>    <tr><td>李奇平</td><td>算法导论</td><td>收到</td><td></td></tr>    <tr><td>叶文辉</td><td>算法（第4版）</td><td>寄出</td><td></td></tr>    <tr><td>高一新</td><td>HTTP权威指南</td><td>寄出</td><td></td></tr>    <tr><td>谢幸家</td><td>编程珠玑（英文版•第2版）</td><td>收到</td><td></td></tr>    <tr><td>范国龙</td><td>深入理解计算机系统（原书第2版）</td><td>收到</td><td></td></tr>    <tr><td>李君奇</td><td>HTTP权威指南</td><td>寄出</td><td></td></tr>    <tr><td>杭海宁</td><td>精通CSS：高级Web标准解决方案（第2版）</td><td>寄出</td><td></td></tr>
     <tr><td>陈颖</td><td>ACM-ICPC程序设计系列：图论及应用</td><td>寄出</td><td></td></tr>
     <tr><td>张然</td><td>JavaScript编程精解</td><td>寄出</td><td></td></tr></tbody></table>
 
