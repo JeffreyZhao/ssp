@@ -2,7 +2,7 @@
 
 盗版一直是软件行业一大毒瘤，但在国内却屡禁不止，包括是盗版图书。虽然照我看来，国内图书已经便宜到令人难以想象的地步，但还是有许多抱怨图书太贵，于是去下载盗版。好吧，我承认，假如您是一个没有任何收入的学生，可能购买大量书籍的确会略有不便，而且我可以理解所谓的“勤工俭学”其实效率很低，并非人人都能感到舒服。此外，可能还有心理作用在里面，例如钱用来泡MM就比买书来得爽快——没问题，这理由我可以接受，只要你能证明自己认真看书即可。
 
-因此，我决定发起一个学生资助计划，目前只覆盖IT技术类图书，希望等我有钱之后覆盖面能更广，但目前我自忖只承担地起书籍开销——而且书籍还有复用的机会嘛！因此，假如您符合我的要求，欢迎前来申请（尽管不保证肯定能拿到书，例如申请人太多），我将会提供免费的图书供您阅读（购买或帮您向别人借），假如能够按照要求总结，则读完后甚至无需归还。要求很简单，只要您：
+因此，我决定发起一个学生资助计划，目前只覆盖IT技术类图书，希望等我有钱之后覆盖面能更广，但目前我自忖只承担地起书籍开销——而且书籍还有复用的机会嘛！因此，假如您符合我的要求，欢迎前来申请（尽管不保证肯定能拿到书，例如申请人太多），我将会提供免费的图书供您阅读，假如能够按照要求总结，则读完后甚至无需归还。要求很简单，只要您：
 
 1. 目前在读本科或大专院校，以及各IT培训机构的学生。
 2. 能证明您认真对待技术的依据，例如：
@@ -13,7 +13,7 @@
 
 ## 状态
 
-<table><thead>    <tr><th>姓名</th><th>书籍</th><th>状态</th><th>笔记</th></tr></thead><tbody>    <tr><td>陈昱</td><td>算法（第4版）</td><td>阅读</td><td><a href="http://www.cynotsb.tk/tag/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/">链接</a></td></tr>    <tr><td>孙旺星</td><td>HTTP权威指南</td><td>阅读</td><td><a href="http://blog.csdn.net/sunorry/article/category/1284439">链接</a></td></tr>    <tr><td>李奇平</td><td>算法导论</td><td>阅读</td><td>链接</td></tr>    <tr><td>叶文辉</td><td>算法（第4版）</td><td>阅读</td><td><a href="http://www.cnblogs.com/viinye/category/430254.html">链接</a></td></tr>    <tr><td>高一新</td><td>HTTP权威指南</td><td>阅读</td><td><a href="http://learnerk.diandian.com/post/ssp-HTTP-The-Definitive-Guide-note">链接</a></td></tr>    <tr><td>谢幸家</td><td>编程珠玑（英文版•第2版）</td><td>阅读</td><td>链接</td></tr>    <tr><td>范国龙</td><td>深入理解计算机系统（原书第2版）</td><td>阅读</td><td>链接</td></tr>    <tr><td>李君奇</td><td>HTTP权威指南</td><td>阅读</td><td><a href="http://paperplane.ruhoh.com/httpnote/">链接</a></td></tr>    <tr><td>杭海宁</td><td>精通CSS：高级Web标准解决方案（第2版）</td><td>阅读</td><td><a href="http://www.1008a.com/post/367.html">链接</a></td></tr>
+<table><thead>    <tr><th>姓名</th><th>书籍</th><th>状态</th><th>笔记</th><td>导师</td></tr></thead><tbody>    <tr><td>陈昱</td><td>算法（第4版）</td><td>阅读</td><td><a href="http://www.cynotsb.tk/tag/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/">链接</a></td><td><a href="http://www.weibo.com/hellmage">谢路云</a></td></tr>    <tr><td>孙旺星</td><td>HTTP权威指南</td><td>阅读</td><td><a href="http://blog.csdn.net/sunorry/article/category/1284439">链接</a></td></tr>    <tr><td>李奇平</td><td>算法导论</td><td>阅读</td><td>链接</td><td><a href="http://www.weibo.com/vczh">陈梓瀚</a></td></tr>    <tr><td>叶文辉</td><td>算法（第4版）</td><td>阅读</td><td><a href="http://www.cnblogs.com/viinye/category/430254.html">链接</a></td><td><a href="http://www.weibo.com/hellmage">谢路云</a></td></tr>    <tr><td>高一新</td><td>HTTP权威指南</td><td>阅读</td><td><a href="http://learnerk.diandian.com/post/ssp-HTTP-The-Definitive-Guide-note">链接</a></td></tr>    <tr><td>谢幸家</td><td>编程珠玑（英文版•第2版）</td><td>阅读</td><td>链接</td></tr>    <tr><td>范国龙</td><td>深入理解计算机系统（原书第2版）</td><td>阅读</td><td>链接</td></tr>    <tr><td>李君奇</td><td>HTTP权威指南</td><td>阅读</td><td><a href="http://paperplane.ruhoh.com/httpnote/">链接</a></td></tr>    <tr><td>杭海宁</td><td>精通CSS：高级Web标准解决方案（第2版）</td><td>阅读</td><td><a href="http://www.1008a.com/post/367.html">链接</a></td></tr>
     <tr><td>陈颖</td><td>ACM-ICPC程序设计系列：图论及应用</td><td>阅读</td><td><a href="http://www.cnblogs.com/chenyg32/category/430358.html">链接</a></td></tr>
     <tr><td>张然</td><td>JavaScript编程精解</td><td>阅读</td><td><a href="http://www.cnblogs.com/zhangran/category/430363.html">链接</a></td></tr></tbody></table>
 
@@ -39,7 +39,7 @@
 
 ## 捐赠
 
-很显然，这事儿由我一人来搞是几乎不可能的，我只能是一个发起者和调度员，而且有意愿做这事儿的老大们肯定有许多。因此，也欢迎大伙有钱出钱，有书出书。假如您有闲散书籍，不妨开一个列表并发送至 [jeffz@live.com](mailto:jeffz@live.com)，这个列表我不会公开（为了避免同学“挑书”）。活动基金暂时不接受捐赠，其使用明细将直接列于下方，欢迎大家监督。
+很显然，这事儿由我一人来搞是几乎不可能的，我只能是一个发起者和调度员，而且有意愿做这事儿的老大们肯定有许多。因此，在活动资金短缺时也会发起捐款。目前活动基金暂时不接受捐赠，其使用明细将直接列于下方，欢迎大家监督。
 
 感谢以下个人及集体的热心帮助：
 
