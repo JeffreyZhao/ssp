@@ -23,7 +23,7 @@
 
 * [算法（第4版）][algorithms-4th] x 2
 * [HTTP权威指南][http-def-guide] x 2
-* [算法导论（原书第2版）][clrs-2nd]
+* [算法导论（原书第2版）][clrs-2nd] x 2 （导师1本）
 * [编程珠玑（英文版•第2版）][prog-pearls-2nd-en]
 * [精通CSS：高级Web标准解决方案（第2版）][css-mastery-2nd]
 * [ACM-ICPC程序设计系列：图论及应用][acm-icpc-graph]
@@ -51,7 +51,7 @@
 
 ## 活动基金明细
 
-<table><thead>    <tr><th>日期</th><th>类别</th><th>描述</th><th>金额</th><th>基金余额</th></tr></thead><tbody>    <tr><td>2012-11-13</td><td>受捐</td><td>捐款人：老赵</td><td>+1024.00</td><td>1024.00</td></tr>    <tr><td>2012-11-14</td><td>购书</td><td>算法（第4版） x 2</td><td>-148.60</td><td>875.40</td></tr>    <tr><td>2012-11-14</td><td>购书</td><td>HTTP权威指南 x 2</td><td>-163.60</td><td>711.80</td></tr>    <tr><td>2012-11-14</td><td>购书</td><td>算法导论（原书第2版）</td><td>-63.80</td><td>648.00</td></tr>    <tr><td>2012-11-14</td><td>购书</td><td>编程珠玑（英文版•第2版）</td><td>-29.30</td><td>618.70</td></tr>    <tr><td>2012-11-15</td><td>受捐</td><td>捐款人：韦恩卑鄙</td><td>+200.00</td><td>818.70</td></tr>    <tr><td>2012-11-15</td><td>购书</td><td>精通CSS：高级Web标准解决方案（第2版）</td><td>-36.80</td><td>781.90</td></tr>    <tr><td>2012-11-15</td><td>受捐</td><td>捐款人：团团ta爸</td><td>+256.00</td><td>1037.90</td></tr>    <tr><td>2012-11-15</td><td>受捐</td><td>捐款人：雅戈贝尔</td><td>+256.00</td><td>1293.90</td></tr>    <tr><td>2012-11-15</td><td>受捐</td><td>捐款人：开源中国</td><td>+1024.00</td><td>2317.90</td></tr>    <tr><td>2012-11-16</td><td>购书</td><td>ACM-ICPC程序设计系列：图论及应用</td><td>-30.40</td><td>2287.50</td></tr>    <tr><td>2012-11-16</td><td>购书</td><td>JavaScript编程精解</td><td>-36.80</td><td>2250.7</td></tr></tbody></table>
+<table><thead>    <tr><th>日期</th><th>类别</th><th>描述</th><th>金额</th><th>基金余额</th></tr></thead><tbody>    <tr><td>2012-11-13</td><td>受捐</td><td>捐款人：老赵</td><td>+1024.00</td><td>1024.00</td></tr>    <tr><td>2012-11-14</td><td>购书</td><td>算法（第4版） x 2</td><td>-148.60</td><td>875.40</td></tr>    <tr><td>2012-11-14</td><td>购书</td><td>HTTP权威指南 x 2</td><td>-163.60</td><td>711.80</td></tr>    <tr><td>2012-11-14</td><td>购书</td><td>算法导论（原书第2版）</td><td>-63.80</td><td>648.00</td></tr>    <tr><td>2012-11-14</td><td>购书</td><td>编程珠玑（英文版•第2版）</td><td>-29.30</td><td>618.70</td></tr>    <tr><td>2012-11-15</td><td>受捐</td><td>捐款人：韦恩卑鄙</td><td>+200.00</td><td>818.70</td></tr>    <tr><td>2012-11-15</td><td>购书</td><td>精通CSS：高级Web标准解决方案（第2版）</td><td>-36.80</td><td>781.90</td></tr>    <tr><td>2012-11-15</td><td>受捐</td><td>捐款人：团团ta爸</td><td>+256.00</td><td>1037.90</td></tr>    <tr><td>2012-11-15</td><td>受捐</td><td>捐款人：雅戈贝尔</td><td>+256.00</td><td>1293.90</td></tr>    <tr><td>2012-11-15</td><td>受捐</td><td>捐款人：开源中国</td><td>+1024.00</td><td>2317.90</td></tr>    <tr><td>2012-11-16</td><td>购书</td><td>ACM-ICPC程序设计系列：图论及应用</td><td>-30.40</td><td>2287.50</td></tr>    <tr><td>2012-11-16</td><td>购书</td><td>JavaScript编程精解</td><td>-36.80</td><td>2250.70</td></tr>    <tr><td>2012-11-21</td><td>购书</td><td>算法导论（原书第2版）</td><td>-63.80</td><td>2186.90</td></tr></tbody></table>
 
 [algorithms-4th]: http://www.ituring.com.cn/book/875 "算法（第4版）"
 [http-def-guide]: http://www.ituring.com.cn/book/844 "HTTP权威指南"
